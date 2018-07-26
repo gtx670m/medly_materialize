@@ -1,0 +1,24 @@
+nav {
+    background-color: #66d1b8;
+}
+
+.button-collapse {
+    display: none;
+}
+
+nav a.button-collapse {
+    display: none;
+}
+
+@media only screen and (max-width: 1439px) {
+    nav a.button-collapse {
+        display: block;
+    }
+    
+}
+
+@media (min-width: 1440px) {
+    .side-nav {
+        left: 300px;
+    }
+}

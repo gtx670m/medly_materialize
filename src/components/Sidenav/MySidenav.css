@@ -1,0 +1,13 @@
+.btn, .btn-large {
+    background-color: #66d1b8;
+}
+
+button.btn.show-on-large {
+    padding: 0;
+    margin: 0;
+}
+
+i.material-icons{
+    padding: 0;
+    margin: 0;
+}
